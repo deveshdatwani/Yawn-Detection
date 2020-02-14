@@ -8,6 +8,6 @@ There are a few changes however that were required for accurate yawn detection.
 
 2) Furthermore, I introduced a time factor to co-relate the distance between lips the time for which they were x distance apart.
 
-3) Additionally, anyone trying to run the following code will have to install the dlib library. Unfortunatel, Github isn't allowing any file above 50.0 mb. dlib library happens to be ust bove 94 Mb if I am not wrong. Hence it is required that you install the library and save it under in the same folder named " shape_predictor_68_face_landmarks.dat "
+3) Additionally, anyone trying to run the following code will have to install the dlib library. Unfortunately, Github isn't allowing any file above 50.0 mb. dlib library happens to be just above 94 Mb. Hence it is required that you install the library and save it under master folder and named it " shape_predictor_68_face_landmarks.dat "
 
 All these provided fair bit of accuracy to detect a yawn. 
