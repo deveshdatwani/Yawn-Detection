@@ -22,14 +22,12 @@ The following code block shows the most important part of tha application. Rest 
 
 Clone the git repository using the following command 
 
-,,, 
-
+```
 git clone https://github.com/deveshdatwani/Yawn-Detection.git
-
-,,,,
+```
 
 Run the yawn_detection.py script using
 
-,,, 
+``` 
 python3 Yawn_Detect.py
-,,,
+```
