@@ -1,10 +1,16 @@
 # Yawn Detection 
 
-### Introduction
+## Introduction
 
 Yawn can be an indicator of high fatigue levels. An application that detects if a person is yawning could be deployed at various platforms.
 
-### Theory
+## Technologies Used
+
+* Python
+* DLIB
+* Requests
+
+## Theory
 
 This Python program uses the dlib library to detect shapes. The shape predictor algorithm implemented in the dlib library comes from Kazemi and Sullivan’s 2014 CVPR paper, One Millisecond Face Alignment with an Ensemble of Regression Trees. Feel free to read more about it.
 
@@ -25,7 +31,7 @@ if (distance < 20) and mouth_open:
     mouth_open = False 
 ```
 
-### Installation and Launch (Linux)
+## Installation and Launch (Linux)
 
 Clone the git repository using the following command 
 
